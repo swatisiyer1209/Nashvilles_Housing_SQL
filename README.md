@@ -47,8 +47,9 @@ The following data cleaning steps have been performed on the dataset:
    - Split owner address into multiple columns
 
 4.**Removing Duplicates:**
-   - Identified and removed duplicate rows from the dataset.
+  - Identified and removed duplicate rows from the dataset.
 
-5. **Deleted unused columns**
+5.**Removing Duplicates:**
+
 
 
