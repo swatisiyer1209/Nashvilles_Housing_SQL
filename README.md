@@ -34,22 +34,22 @@ UniqueID 	ParcelID	LandUse	PropertyAddress	SaleDate	SalePrice	LegalReference	Sol
 
 The following data cleaning steps have been performed on the dataset:
 
-1.  **Standardizing Data:**
+1. **Standardizing Data:**
    - Ensured that sale dates are standardized.
    - Ensured that SoldAsVaccant data is standardized.
-   
+        
 2. **Handling Missing Values:**
    - Checked for missing values in propety address.
    - Imputed missing values using ParcelID.
 
 3. **Spliting Data into multiple column**
    - Split property address into multiple columns.
-   - Split owner address into multiple columns
+   - Split owner address into multiple columns.
 
-4.**Removing Duplicates:**
-  - Identified and removed duplicate rows from the dataset.
+4. **Removing Duplicates:**
+   - Identified and removed duplicate rows from the dataset. 
 
-5.**Removing Duplicates:**
+4. **Deleting unused columns**
 
 
 
